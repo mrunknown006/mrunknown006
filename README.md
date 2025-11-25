@@ -10,10 +10,12 @@
 ---
 
 ### **- About Me**
-- **MERN** stack developer.
-- Passionated in **Designing , Animations**
-- Open to **collaboration** on web projects and innovative ideas ⚡
-- Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>** 📫
+- 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (REACT | Tailwind | GSAP).
+- **MERN** stack learner.
+- Passionated in **Designing , Animations, Cybersecurity**.
+- Love contributing to open source.
+- Open to **collaboration** on web projects and innovative ideas ⚡.
+- Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>** 📫.
 
 
 ### **- Tech Stack**:
